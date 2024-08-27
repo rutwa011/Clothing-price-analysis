@@ -1,0 +1,26 @@
+shirts
+jeans
+tops
+bottoms
+h&m
+Outerwear
+Outer wear
+Activewear
+Active wear
+Swimwear
+Swim wear
+
+Sleep wear
+Sleepwear
+Formal Wear
+Sportswear
+Sports wear
+Workwear
+Work wear
+
+Casual Wear
+Casualwear
+Streetwear
+Street wear
+Ethnic Wear
+Ethnicwear
